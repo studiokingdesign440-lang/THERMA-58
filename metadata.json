@@ -1,0 +1,6 @@
+{
+  "name": "Therma 58 — 58mm Web Bluetooth Thermal Printer",
+  "description": "Offline-capable terminal-styled 58mm thermal printer studio with rich text formatting, checklists, image dithering, preview mode, and Web Bluetooth ESC/POS printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
